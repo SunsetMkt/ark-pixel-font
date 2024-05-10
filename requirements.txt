@@ -1,4 +1,4 @@
-fonttools==4.39.4
+fonttools==4.43.0
 Brotli==1.0.9
 unidata-blocks==0.0.2
 character-encoding-utils==0.0.4
